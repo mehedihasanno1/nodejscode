@@ -1,9 +1,4 @@
-# NODE CODE
+# Data Analysis Protfolio
 
-Are you ever see me?
-
-yes.
-
-###Do you?
-
-# OK YOU are?
+Hi, It's my personal project. 
+# You can Contact me anytime.
